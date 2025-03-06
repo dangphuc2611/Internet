@@ -12,3 +12,5 @@
 2. What's HTTP/HTTPS?
 
 - HTTP is simply the way web browser and web server communicating
+  - How does the HTTP works?
+    - HTTP works by client-server model(client sent request to server and server response back to the client)
