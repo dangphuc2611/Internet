@@ -8,7 +8,7 @@
 
     - IP address: its like the home address any things connect to the internet will have an IP address
 
-    - Router: its use to navigate the data packs to the right ip address
+    - Router: its use to navigate the data packs to the right IP address
 
 2. What's HTTP/HTTPS?
 
@@ -21,3 +21,9 @@
   - What're the difference bettwen HTTP and HTTPS?
 
     - Simply HTTPS is HTTP but has been encrypted
+
+3. What's Domain name?
+
+- Domain name is easier remember address of IP address(it's like name and phone number in Contacts | **Name: domain name, Phone number: IP address, Contacts: DNS**)
+
+  How does Domain name
