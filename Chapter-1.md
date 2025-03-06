@@ -1,5 +1,10 @@
 # Definition of Internet
 
-1. How internet works ?
+1. How does the internet works ?
 
-- The internet works based on connection between computers, it broke the data into small packs and after sent to target computer, it can combine together to read the data.
+-Internet is the connetion bettwen many computer by broke the data packs into smaller packs and then when its come to the destination conputer its combine togeter by original order
+
+-How does the data packs come to the right computer?
+
+- IP address: its like the home address any things connect to the internet will have an IP address
+- Router: its use to navigate the data packs to the right ip address
