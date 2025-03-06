@@ -1,3 +1,5 @@
-# Dinh nghia
+# Definition of Internet
 
-- 1. Internet la mot mang luoi may tinh lien ket voi nhau va truyen tai thong tin duoi dang goi tin
+1. How internet works ?
+
+- The internet works based on connection between computers, it broke the data into small packs and after sent to target computer, it can combine together to read the data.
