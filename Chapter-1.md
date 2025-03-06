@@ -26,4 +26,6 @@
 
 - Domain name is easier remember address of IP address(it's like name and phone number in Contacts | **Name: domain name, Phone number: IP address, Contacts: DNS**)
 
-  How does Domain name
+  - How does the Domain name works?
+
+    Domain name works by when you entered the Domain name it's translated into IP address throught DNS(Domain Name System)
