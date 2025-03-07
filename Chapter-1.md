@@ -31,3 +31,5 @@
     Domain name works by when you entered the Domain name it's translated into IP address throught DNS(Domain Name System)
 
 4. What's hosting?
+
+- Hosting is a service that allows people can publicize their website by store the web data on the server computer
