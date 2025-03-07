@@ -29,3 +29,5 @@
   - How does the Domain name works?
 
     Domain name works by when you entered the Domain name it's translated into IP address throught DNS(Domain Name System)
+
+4. What's hosting?
