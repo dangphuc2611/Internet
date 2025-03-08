@@ -37,3 +37,8 @@
 5. What's DNS and how does it works?
 
 - DNS is like the place that store domain name and tranlate it into IP address (it's like a contacts, domain name like name in contacts, IP address like phone number)
+- How does DNS works?
+
+  Basicly
+
+  - DNS works by when user enter a domain name, DNS translate it into IP address
