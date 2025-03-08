@@ -33,3 +33,7 @@
 4. What's hosting?
 
 - Hosting is a service that allows people can publicize their website by store the web data on the server computer
+
+5. What's DNS and how does it works?
+
+- DNS is like the place that store domain name and tranlate it into IP address (it's like a contacts, domain name like name in contacts, IP address like phone number)
