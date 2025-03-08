@@ -42,3 +42,7 @@
   Basicly
 
   - DNS works by when user enter a domain name, DNS translate it into IP address
+
+  Internally
+
+  - DNS work by when user enter a domain name. Firstly, browser will find it in cache(when you access into the website before its will stored in cache) if browser can not find it in cache then browser will ask the DNS
