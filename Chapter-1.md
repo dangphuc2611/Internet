@@ -48,3 +48,5 @@
   - DNS work by when user enter a domain name. Firstly, browser will find it in cache(when you access into the website before its will stored in cache) if browser can not find it in cache then browser will ask the DNS
 
 6. What's browser and how they works?
+
+- Browser is a place where user can access and display website's content
