@@ -50,3 +50,7 @@
 6. What's browser and how they works?
 
 - Browser is a place where user can access and display website's content
+
+- How browsers work?
+
+  - Sent request to server and then when receiving response from server, processing and rendering the website
